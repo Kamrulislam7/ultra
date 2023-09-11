@@ -45,7 +45,7 @@ app.use(cookieParser());
 app.use(
   cors({
     credentials: true,
-    origin: "https://ultra-eta.vercel.app",
+    origin: "http://localhost:3000",
   })
 );
 
