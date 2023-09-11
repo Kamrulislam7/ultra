@@ -43,8 +43,8 @@ const Bookingweget = () => {
       place,
       price: numberOfNights * place.price,
     });
-    const bookingId = response.data._id;
-    console.log(bookingId);
+    // const bookingId = response.data._id;
+
     setRedirect(`/account/bookings/${id}`);
   }
 
