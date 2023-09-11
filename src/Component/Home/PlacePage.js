@@ -117,7 +117,7 @@ const PlacePage = () => {
         </div>
         <button
           onClick={() => setShowallPhotps(true)}
-          className=" flex gap-1 absolute bottom-40 right-4 py-2 px-4 bg-white rounded-2xl shadow shadow-md shadow-gray-500"
+          className=" flex gap-1 absolute bottom-10 right-4 py-2 px-4 bg-white rounded-2xl shadow shadow-md shadow-gray-500"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
