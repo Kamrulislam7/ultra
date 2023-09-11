@@ -12,8 +12,8 @@ const BookingPage = () => {
       </h1>
       <h3>
         Show your id in Our reception.{" "}
-        <span className="text-green-600 text-lg">Payment </span> online Cooming
-        soon!!!!!!!!
+        <span className="text-green-600 text-lg">Payment </span> Online Cooming
+        soon!!!!!!
       </h3>
       <button className="mt-10">
         <Link className="bg-amber-500 p-3" to="/account/bookings">
